@@ -11,6 +11,7 @@ adobeacrobatprodc
 adobebrackets
 adobeconnect
 adobecreativeclouddesktop
+adobedigitaleditions
 adobereaderdc
 adobereaderdc-install
 adobereaderdc-update
@@ -87,8 +88,11 @@ boxsync
 boxtools
 bracketsio
 brave
+bravepkg
 brosix
 bugdom
+burpsuitecommunityedition
+burpsuiteprofessional
 caffeine
 cakebrew
 calcservice
@@ -103,6 +107,7 @@ camtasia2023
 camunda
 canva
 carboncopycloner
+catoclient
 charles
 chatwork
 chromeremotedesktop
@@ -124,6 +129,7 @@ cluefull
 cocoapods
 coconutbattery
 code42
+codemeter
 coderunner
 colourcontrastanalyser
 connectfonts
@@ -169,6 +175,7 @@ egnyte
 egnytecore
 egnytewebedit
 element
+escrowbuddy
 eshareosx
 espanso
 etrecheck
@@ -283,6 +290,7 @@ jetbrainsrider
 jetbrainsrubymine
 jetbrainstoolbox
 jetbrainswebstorm
+jre8
 jumpdesktop
 jupyterlab
 kap
@@ -291,8 +299,11 @@ keepassxc
 keeperpasswordmanager
 keepingyouawake
 keka
+keyaccess
 keybase
 keyboardmaestro
+keystoreexplorer
+kimplusclientmodul
 klokki
 knockknock
 krisp
@@ -330,6 +341,7 @@ marathoninfinity
 masv
 mattermost
 maxonapp
+mdmwatchdog
 meetingbar
 mendeleyreferencemanager
 menumeters
@@ -383,6 +395,7 @@ moderncsv
 mongodbcompass
 monitorcontrol
 montereyblocker
+morisawadesktopmanager
 mowgliiitsycal
 munki
 musescore
@@ -403,7 +416,10 @@ nova
 nudge
 nudgesuite
 nvivo
+nvivo13
+nvivo14
 obs
+obsbotwebcam
 obsidian
 odrive
 omnidisksweeper
@@ -421,6 +437,7 @@ openvpnconnect
 openvpnconnectv3
 opera
 origin
+orion
 ottomatic
 outset
 overflow
@@ -445,6 +462,7 @@ podmandesktop
 polylens
 popsql
 postman
+prism10
 prism9
 pritunl
 privileges
@@ -452,6 +470,7 @@ proctortrack
 projectplace
 promiseutility
 promiseutilityr
+proofpointautoupdater
 propresenter7
 protonvpn
 proxyman
@@ -460,6 +479,7 @@ pycharmce
 pymol
 python
 qgis-pr
+qlab
 r
 rancherdesktop
 rapidapi
@@ -498,6 +518,7 @@ selfcontrol
 sequelpro
 sfsymbols
 shield
+shotcut
 shottr
 sidekick
 signal
@@ -530,6 +551,9 @@ splashtopsos
 spotify
 sqlpropostgres
 sqlprostudio
+starface72x
+starface73x
+starfaceuccclient
 steelseriesengine
 strongdm
 strongsync
@@ -538,6 +562,7 @@ sublimemerge
 sublimetext
 superhuman
 supportapp
+surfdrive
 suspiciouspackage
 swiftdialog
 swiftruntimeforcommandlinetools
@@ -555,6 +580,7 @@ talkdeskcxcloud
 taskpaper
 teamviewer
 teamviewerhost
+teamviewerhostcustom
 teamviewerqs
 teamviewerqscustom
 techsmithcapture
@@ -598,7 +624,9 @@ virtualbox
 viscosity
 visualstudiocode
 vivaldi
+vivi
 vlc
+vmwarefusion
 vmwarehorizonclient
 vonagebusiness
 vpntracker365
@@ -610,6 +638,7 @@ webex
 webexmeetings
 webexteams
 wechat
+weprint
 whatroute
 whatsapp
 wireshark
